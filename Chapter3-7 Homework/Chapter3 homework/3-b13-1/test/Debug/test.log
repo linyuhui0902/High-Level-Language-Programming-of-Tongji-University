@@ -1,0 +1,5 @@
+﻿  test.cpp
+E:\3-b13-1\test\test.cpp(13,13): error C2144: 语法错误:“void”的前面应有“)”
+E:\3-b13-1\test\test.cpp(13,13): error C2144: 语法错误:“void”的前面应有“;”
+E:\3-b13-1\test\test.cpp(13,17): error C2059: 语法错误:“)”
+E:\3-b13-1\test\test.cpp(13,13): warning C4091: “”: 没有声明变量时忽略“void”的左侧

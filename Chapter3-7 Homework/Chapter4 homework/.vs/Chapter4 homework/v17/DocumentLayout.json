@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Chapter4 homework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{284C9096-DE7E-43F4-BAFF-4402BCAA3B25}|4-b13-1\\4-b13-1.vcxproj|E:\\Chapter4 homework\\4-b13-1\\4-b13-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{284C9096-DE7E-43F4-BAFF-4402BCAA3B25}|4-b13-1\\4-b13-1.vcxproj|solutionrelative:4-b13-1\\4-b13-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E018D62-7619-4377-B2FD-DF83EBA01E31}|4-b12\\4-b12.vcxproj|E:\\Chapter4 homework\\4-b12\\4-b12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E018D62-7619-4377-B2FD-DF83EBA01E31}|4-b12\\4-b12.vcxproj|solutionrelative:4-b12\\4-b12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D5B5B-D6D8-49F3-B44E-B7C9A81226D0}|4-b4-1\\4-b4-1.vcxproj|E:\\Chapter4 homework\\4-b4-1\\4-b4-1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{044D5B5B-D6D8-49F3-B44E-B7C9A81226D0}|4-b4-1\\4-b4-1.vcxproj|solutionrelative:4-b4-1\\4-b4-1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1158B0B-40A8-4D7C-861D-113C62F96A58}|4-b13-2\\4-b13-2.vcxproj|E:\\Chapter4 homework\\4-b13-2\\4-b13-2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1158B0B-40A8-4D7C-861D-113C62F96A58}|4-b13-2\\4-b13-2.vcxproj|solutionrelative:4-b13-2\\4-b13-2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20613972-8EB2-4792-BCB0-CD95D3B4929A}|4-b3\\4-b3.vcxproj|E:\\Chapter4 homework\\4-b3\\4-b3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20613972-8EB2-4792-BCB0-CD95D3B4929A}|4-b3\\4-b3.vcxproj|solutionrelative:4-b3\\4-b3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B40BD8-BF4D-4B97-AA71-E6254F31DB44}|4-b8\\4-b8.vcxproj|E:\\Chapter4 homework\\4-b8\\4-b8.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{15B40BD8-BF4D-4B97-AA71-E6254F31DB44}|4-b8\\4-b8.vcxproj|solutionrelative:4-b8\\4-b8.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22589C0D-E894-4E24-9323-9E623597E575}|4-b7\\4-b7.vcxproj|E:\\Chapter4 homework\\4-b7\\4-b7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22589C0D-E894-4E24-9323-9E623597E575}|4-b7\\4-b7.vcxproj|solutionrelative:4-b7\\4-b7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81D76D0-0BDD-4254-802C-7BA4FA0C55DD}|4-b9\\4-b9.vcxproj|E:\\Chapter4 homework\\4-b9\\4-b9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A81D76D0-0BDD-4254-802C-7BA4FA0C55DD}|4-b9\\4-b9.vcxproj|solutionrelative:4-b9\\4-b9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098B6F10-1C86-4169-B825-08A8ECA0B062}|4-b11\\4-b11.vcxproj|E:\\Chapter4 homework\\4-b11\\4-b11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{098B6F10-1C86-4169-B825-08A8ECA0B062}|4-b11\\4-b11.vcxproj|solutionrelative:4-b11\\4-b11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A147EC32-6B08-40E8-A44C-A4F87005AAC7}|4-b1-1\\4-b1-1.vcxproj|E:\\Chapter4 homework\\4-b1-1\\4-b2-1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A147EC32-6B08-40E8-A44C-A4F87005AAC7}|4-b1-1\\4-b1-1.vcxproj|solutionrelative:4-b1-1\\4-b2-1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16E4933-6A97-4F1E-9858-E55F61F018C6}|4-b2-2\\4-b2-2.vcxproj|E:\\Chapter4 homework\\4-b2-2\\4-b2-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C16E4933-6A97-4F1E-9858-E55F61F018C6}|4-b2-2\\4-b2-2.vcxproj|solutionrelative:4-b2-2\\4-b2-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295CC103-71EC-414B-9772-BCFD1B3FC10D}|Chapter4 homework\\Chapter4 homework.vcxproj|E:\\Chapter4 homework\\Chapter4 homework\\4-b1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{295CC103-71EC-414B-9772-BCFD1B3FC10D}|Chapter4 homework\\Chapter4 homework.vcxproj|solutionrelative:Chapter4 homework\\4-b1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B93ABE-D885-44E6-B8DC-6FC3857DB1C9}|4-b19\\4-b19.vcxproj|E:\\Chapter4 homework\\4-b19\\4-b19.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45B93ABE-D885-44E6-B8DC-6FC3857DB1C9}|4-b19\\4-b19.vcxproj|solutionrelative:4-b19\\4-b19.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD73745-10FA-4A56-A819-1A39FAD1EBC8}|4-b18\\4-b18.vcxproj|E:\\Chapter4 homework\\4-b18\\4-b18.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6CD73745-10FA-4A56-A819-1A39FAD1EBC8}|4-b18\\4-b18.vcxproj|solutionrelative:4-b18\\4-b18.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8479B0D3-AF97-47BA-A4CB-E344E5D6A8C2}|4-b10\\4-b10.vcxproj|E:\\Chapter4 homework\\4-b10\\4-b10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8479B0D3-AF97-47BA-A4CB-E344E5D6A8C2}|4-b10\\4-b10.vcxproj|solutionrelative:4-b10\\4-b10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2130A76-B306-4D45-8CC8-61B36B034F59}|4-b4-2\\4-b4-2.vcxproj|E:\\Chapter4 homework\\4-b4-2\\4-b4-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B2130A76-B306-4D45-8CC8-61B36B034F59}|4-b4-2\\4-b4-2.vcxproj|solutionrelative:4-b4-2\\4-b4-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDDB442-85BF-4AA7-8438-1BDF7CA4BED1}|4-b6\\4-b6.vcxproj|E:\\Chapter4 homework\\4-b6\\4-b6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7BDDB442-85BF-4AA7-8438-1BDF7CA4BED1}|4-b6\\4-b6.vcxproj|solutionrelative:4-b6\\4-b6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F343004A-3A0F-4086-9771-2ABBF42C8CD3}|4-b5\\4-b5.vcxproj|E:\\Chapter4 homework\\4-b5\\4-b5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F343004A-3A0F-4086-9771-2ABBF42C8CD3}|4-b5\\4-b5.vcxproj|solutionrelative:4-b5\\4-b5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "4-b13-2.c",
+              "DocumentMoniker": "E:\\Chapter4 homework\\4-b13-2\\4-b13-2.c",
+              "RelativeDocumentMoniker": "4-b13-2\\4-b13-2.c",
+              "ToolTip": "E:\\Chapter4 homework\\4-b13-2\\4-b13-2.c",
+              "RelativeToolTip": "4-b13-2\\4-b13-2.c",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAFsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-15T12:44:48.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "4-b13-1.cpp",
+              "DocumentMoniker": "E:\\Chapter4 homework\\4-b13-1\\4-b13-1.cpp",
+              "RelativeDocumentMoniker": "4-b13-1\\4-b13-1.cpp",
+              "ToolTip": "E:\\Chapter4 homework\\4-b13-1\\4-b13-1.cpp",
+              "RelativeToolTip": "4-b13-1\\4-b13-1.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-15T11:51:52.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "4-b12.cpp",
+              "DocumentMoniker": "E:\\Chapter4 homework\\4-b12\\4-b12.cpp",
+              "RelativeDocumentMoniker": "4-b12\\4-b12.cpp",
+              "ToolTip": "E:\\Chapter4 homework\\4-b12\\4-b12.cpp",
+              "RelativeToolTip": "4-b12\\4-b12.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-13T01:16:57.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "4-b10.cpp",
+              "DocumentMoniker": "E:\\Chapter4 homework\\4-b10\\4-b10.cpp",
+              "RelativeDocumentMoniker": "4-b10\\4-b10.cpp",
+              "ToolTip": "E:\\Chapter4 homework\\4-b10\\4-b10.cpp",
+              "RelativeToolTip": "4-b10\\4-b10.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-12T13:12:36.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "4-b9.cpp",
+              "DocumentMoniker": "E:\\Chapter4 homework\\4-b9\\4-b9.cpp",
+              "RelativeDocumentMoniker": "4-b9\\4-b9.cpp",
+              "ToolTip": "E:\\Chapter4 homework\\4-b9\\4-b9.cpp",
+              "RelativeToolTip": "4-b9\\4-b9.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-12T07:30:07.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "4-b11.cpp",
+              "DocumentMoniker": "E:\\Chapter4 homework\\4-b11\\4-b11.cpp",
+              "RelativeDocumentMoniker": "4-b11\\4-b11.cpp",
+              "ToolTip": "E:\\Chapter4 homework\\4-b11\\4-b11.cpp",
+              "RelativeToolTip": "4-b11\\4-b11.cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-08T11:49:31.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "4-b8.c",
+              "DocumentMoniker": "E:\\Chapter4 homework\\4-b8\\4-b8.c",
+              "RelativeDocumentMoniker": "4-b8\\4-b8.c",
+              "ToolTip": "E:\\Chapter4 homework\\4-b8\\4-b8.c",
+              "RelativeToolTip": "4-b8\\4-b8.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-12T06:37:35.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "4-b7.cpp",
+              "DocumentMoniker": "E:\\Chapter4 homework\\4-b7\\4-b7.cpp",
+              "RelativeDocumentMoniker": "4-b7\\4-b7.cpp",
+              "ToolTip": "E:\\Chapter4 homework\\4-b7\\4-b7.cpp",
+              "RelativeToolTip": "4-b7\\4-b7.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-08T10:36:01.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "4-b3.cpp",
+              "DocumentMoniker": "E:\\Chapter4 homework\\4-b3\\4-b3.cpp",
+              "RelativeDocumentMoniker": "4-b3\\4-b3.cpp",
+              "ToolTip": "E:\\Chapter4 homework\\4-b3\\4-b3.cpp",
+              "RelativeToolTip": "4-b3\\4-b3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-02T04:14:49.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "4-b4-1.c",
+              "DocumentMoniker": "E:\\Chapter4 homework\\4-b4-1\\4-b4-1.c",
+              "RelativeDocumentMoniker": "4-b4-1\\4-b4-1.c",
+              "ToolTip": "E:\\Chapter4 homework\\4-b4-1\\4-b4-1.c",
+              "RelativeToolTip": "4-b4-1\\4-b4-1.c",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAAAHkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-04T05:29:47.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "4-b18.cpp",
+              "DocumentMoniker": "E:\\Chapter4 homework\\4-b18\\4-b18.cpp",
+              "RelativeDocumentMoniker": "4-b18\\4-b18.cpp",
+              "ToolTip": "E:\\Chapter4 homework\\4-b18\\4-b18.cpp",
+              "RelativeToolTip": "4-b18\\4-b18.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-19T15:02:38.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "4-b19.cpp",
+              "DocumentMoniker": "E:\\Chapter4 homework\\4-b19\\4-b19.cpp",
+              "RelativeDocumentMoniker": "4-b19\\4-b19.cpp",
+              "ToolTip": "E:\\Chapter4 homework\\4-b19\\4-b19.cpp",
+              "RelativeToolTip": "4-b19\\4-b19.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-19T15:03:08.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "4-b6.c",
+              "DocumentMoniker": "E:\\Chapter4 homework\\4-b6\\4-b6.c",
+              "RelativeDocumentMoniker": "4-b6\\4-b6.c",
+              "ToolTip": "E:\\Chapter4 homework\\4-b6\\4-b6.c",
+              "RelativeToolTip": "4-b6\\4-b6.c",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAABcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-07T15:12:44.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "4-b5.cpp",
+              "DocumentMoniker": "E:\\Chapter4 homework\\4-b5\\4-b5.cpp",
+              "RelativeDocumentMoniker": "4-b5\\4-b5.cpp",
+              "ToolTip": "E:\\Chapter4 homework\\4-b5\\4-b5.cpp",
+              "RelativeToolTip": "4-b5\\4-b5.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-07T15:10:50.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "4-b4-2.cpp",
+              "DocumentMoniker": "E:\\Chapter4 homework\\4-b4-2\\4-b4-2.cpp",
+              "RelativeDocumentMoniker": "4-b4-2\\4-b4-2.cpp",
+              "ToolTip": "E:\\Chapter4 homework\\4-b4-2\\4-b4-2.cpp",
+              "RelativeToolTip": "4-b4-2\\4-b4-2.cpp",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAAAHgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-02T12:50:32.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "4-b2-1.c",
+              "DocumentMoniker": "E:\\Chapter4 homework\\4-b1-1\\4-b2-1.c",
+              "RelativeDocumentMoniker": "4-b1-1\\4-b2-1.c",
+              "ToolTip": "E:\\Chapter4 homework\\4-b1-1\\4-b2-1.c",
+              "RelativeToolTip": "4-b1-1\\4-b2-1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-02T03:44:40.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "4-b2-2.cpp",
+              "DocumentMoniker": "E:\\Chapter4 homework\\4-b2-2\\4-b2-2.cpp",
+              "RelativeDocumentMoniker": "4-b2-2\\4-b2-2.cpp",
+              "ToolTip": "E:\\Chapter4 homework\\4-b2-2\\4-b2-2.cpp",
+              "RelativeToolTip": "4-b2-2\\4-b2-2.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAABsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-02T01:13:53.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "4-b1.cpp",
+              "DocumentMoniker": "E:\\Chapter4 homework\\Chapter4 homework\\4-b1.cpp",
+              "RelativeDocumentMoniker": "Chapter4 homework\\4-b1.cpp",
+              "ToolTip": "E:\\Chapter4 homework\\Chapter4 homework\\4-b1.cpp",
+              "RelativeToolTip": "Chapter4 homework\\4-b1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-01T12:34:49.324Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
